@@ -1,0 +1,10 @@
+.app-header {
+    justify-content: space-between;
+}
+h1{
+    margin-top: -10px;
+}
+h2{
+    color: grey;
+    font-size: 25px;
+}
